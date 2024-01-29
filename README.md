@@ -8,7 +8,7 @@ This project is a Grocery Store Management System developed using Flask for the 
 
 ## Introduction
 
-The Grocery Store Management System is designed to handle various aspects of a grocery store, including managing products, processing orders, and tracking sales.
+The Grocery Store Management System is designed to handle various aspects of a grocery store, including managing products, processing orders, and tracking sales.The Grocery Store Management System is a Flask-based web application designed to streamline various aspects of managing a grocery store. It includes features such as product management, order processing, and sales tracking. Users can add, edit, and delete products, create new orders with customer details, and view and manage orders. The system offers a user-friendly interface accessible through web browsers.
 
 ## Features
 
